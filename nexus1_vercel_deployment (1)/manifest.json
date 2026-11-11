@@ -1,0 +1,10 @@
+{
+  "name": "NEXUS-1 // 3D AI Data Center Educational Academy",
+  "short_name": "NEXUS-1 3D",
+  "description": "Interactive 3D Hyperscale AI Data Center, Power Shell & Busbar Educational Simulator",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#00f0ff",
+  "orientation": "any"
+}
